@@ -1,0 +1,10 @@
+body {
+  color: #FFF;
+  background-color: #070707;
+
+  position: relative;
+}
+
+::selection {
+  color: #4E46E7;
+}
